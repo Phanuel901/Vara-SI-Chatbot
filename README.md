@@ -1,16 +1,16 @@
 Vara SI
 
-An AI assistant designed to make conversations intelligent, natural, and meaningful.
+An SI assistant designed to make conversations intelligent, natural, and meaningful.
 
-Vara SI is an independent AI chatbot project focused on building an intelligent conversational assistant capable of understanding user queries, maintaining conversational context, and delivering relevant, helpful responses.
+Vara SI is an independent SI chatbot project focused on building an intelligent conversational assistant capable of understanding user queries, maintaining conversational context, and delivering relevant, helpful responses.
 
-Powered by Google's Gemini AI models and built with Python, Vara SI aims to provide a foundation for a modern AI assistant with persistent conversation memory, user management, and an intuitive chat experience.
+Powered by Google's Gemini SI models and built with Python, Vara SI aims to provide a foundation for a modern SI assistant with persistent conversation memory, user management, and an intuitive chat experience.
 
 ---
 
 About the Project
 
-Vara SI is being developed as a standalone AI-powered application. The goal is to go beyond simple question-and-answer interactions by creating an assistant that can understand ongoing conversations and respond with contextual awareness.
+Vara SI is being developed as a standalone SI-powered application. The goal is to go beyond simple question-and-answer interactions by creating an assistant that can understand ongoing conversations and respond with contextual awareness.
 
 The project is being developed incrementally, with an emphasis on clean architecture, maintainable code, scalability, and practical AI integration.
 
@@ -19,7 +19,7 @@ Technology Stack
 Technology| Purpose
 Python| Backend development
 FastAPI| Backend API framework
-Google Gemini| AI model integration
+Google Gemini| SI model integration
 PostgreSQL| Database
 SQLAlchemy| Database ORM
 Pydantic| Data validation
@@ -31,11 +31,11 @@ Core Features
 
 Implemented
 
-- [x] Python backend initialization.
-- [x] FastAPI application setup.
-- [x] Google Gemini API integration.
-- [x] AI response generation.
-- [x] Environment variable configuration.
+- [ ] Python backend initialization.
+- [ ] FastAPI application setup.
+- [ ] Google Gemini API integration.
+- [ ] AI response generation.
+- [ ] Environment variable configuration.
 
 In Development
 
@@ -167,9 +167,9 @@ The long-term vision for Vara SI is to develop a capable, context-aware AI assis
 
 Author
 
-Phanuel
+Phanuel Agum
 
-Student | Data Science | Software Development | Artificial Intelligence
+Student | Data Science | Software Development | Super Intelligence
 
 GitHub: "@Phanuel901" (https://github.com/Phanuel901)
 
