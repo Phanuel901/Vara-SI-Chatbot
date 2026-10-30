@@ -1,4 +1,4 @@
-Vara SI
+##Vara SI
 
 An SI assistant designed to make conversations intelligent, natural, and meaningful.
 
@@ -8,13 +8,13 @@ Powered by Google's Gemini SI models and built with Python, Vara SI aims to prov
 
 ---
 
-About the Project
+##About the Project
 
 Vara SI is being developed as a standalone SI-powered application. The goal is to go beyond simple question-and-answer interactions by creating an assistant that can understand ongoing conversations and respond with contextual awareness.
 
 The project is being developed incrementally, with an emphasis on clean architecture, maintainable code, scalability, and practical AI integration.
 
-Technology Stack
+##Technology Stack
 
 Technology| Purpose
 Python| Backend development
@@ -27,9 +27,9 @@ Next.js| Frontend framework
 React| User interface
 TypeScript| Frontend type safety
 
-Core Features
+##Core Features
 
-Implemented
+*Implemented*
 
 - [ ] Python backend initialization.
 - [ ] FastAPI application setup.
@@ -37,7 +37,7 @@ Implemented
 - [ ] AI response generation.
 - [ ] Environment variable configuration.
 
-In Development
+*In Development*
 
 - [ ] Context-aware conversations.
 - [ ] Conversation history management.
@@ -46,7 +46,7 @@ In Development
 - [ ] Modern conversational interface.
 - [ ] Real-time response streaming.
 
-Planned
+*Planned*
 
 - [ ] User registration and authentication.
 - [ ] Multiple conversation sessions.
@@ -56,7 +56,7 @@ Planned
 - [ ] File and document interaction.
 - [ ] Advanced assistant capabilities.
 
-Project Architecture
+##Project Architecture
 
 The project follows a separated frontend and backend architecture.
 
@@ -86,7 +86,7 @@ Vara-SI/
 
 Note: The architecture above represents the intended organization and may evolve as development progresses.
 
-Getting Started
+##Getting Started
 
 Prerequisites
 
