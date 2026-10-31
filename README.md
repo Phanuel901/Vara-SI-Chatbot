@@ -1,6 +1,6 @@
 ##Vara SI
 
-An SI assistant designed to make conversations intelligent, natural, and meaningful.
+An SI app assistant designed to make conversations intelligent, natural, and meaningful.
 
 Vara SI is an independent SI chatbot project focused on building an intelligent conversational assistant capable of understanding user queries, maintaining conversational context, and delivering relevant, helpful responses.
 
@@ -125,7 +125,7 @@ pip install -r requirements.txt
 
 Create a ".env" file in the backend directory:
 
-GEMINI_API_KEY=your_gemini_api_key
+GEMINI_API_KEY=my_gemini_api_key
 
 Never commit API keys, passwords, or other sensitive credentials to GitHub.
 
