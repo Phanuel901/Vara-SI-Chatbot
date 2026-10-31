@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Allow the example environment file
+!.env.example
+
+# IDE
+.vscode/
+
+# Testing
+.pytest_cache/
+.coverage
