@@ -1,8 +1,8 @@
-##Vara SI
+##Vara AI
 
-An SI app assistant designed to make conversations intelligent, natural, and meaningful.
+An AI app assistant designed to make conversations intelligent, natural, and meaningful.
 
-Vara SI is an independent SI chatbot project focused on building an intelligent conversational assistant capable of understanding user queries, maintaining conversational context, and delivering relevant, helpful responses.
+Vara AI is an independent AI chatbot project focused on building an intelligent conversational assistant capable of understanding user queries, maintaining conversational context, and delivering relevant, helpful responses.
 
 Powered by Google's Gemini SI models and built with Python, Vara SI aims to provide a foundation for a modern SI assistant with persistent conversation memory, user management, and an intuitive chat experience.
 
@@ -10,7 +10,7 @@ Powered by Google's Gemini SI models and built with Python, Vara SI aims to prov
 
 ##About the Project
 
-Vara SI is being developed as a standalone SI-powered application. The goal is to go beyond simple question-and-answer interactions by creating an assistant that can understand ongoing conversations and respond with contextual awareness.
+Vara AI is being developed as a standalone SI-powered application. The goal is to go beyond simple question-and-answer interactions by creating an assistant that can understand ongoing conversations and respond with contextual awareness.
 
 The project is being developed incrementally, with an emphasis on clean architecture, maintainable code, scalability, and practical AI integration.
 
@@ -19,7 +19,7 @@ The project is being developed incrementally, with an emphasis on clean architec
 Technology| Purpose
 Python| Backend development
 FastAPI| Backend API framework
-Google Gemini| SI model integration
+Google Gemini| AI model integration
 PostgreSQL| Database
 SQLAlchemy| Database ORM
 Pydantic| Data validation
