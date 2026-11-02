@@ -1,6 +1,6 @@
 ##Vara AI
 
-An AI app assistant designed to make conversations intelligent, natural, and meaningful.
+An AI app assistant designed to make conversations intelligent, natural, and meaningful built in python and typescript.
 
 Vara AI is an independent AI chatbot project focused on building an intelligent conversational assistant capable of understanding user queries, maintaining conversational context, and delivering relevant, helpful responses.
 
