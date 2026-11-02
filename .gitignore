@@ -1,0 +1,36 @@
+﻿# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Node.js dependencies
+node_modules/
+
+# Next.js generated files
+.next/
+out/
+
+# Build outputs
+build/
+dist/
+
+# Local editor settings
+.vscode/
+
+# Frontend backups
+frontend-backup-*/
+
+# Operating system files
+.DS_Store
+Thumbs.db
